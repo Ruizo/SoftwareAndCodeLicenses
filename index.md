@@ -1,5 +1,6 @@
 ## Software and code licenses
 Hello everyone, I'm Marc Ruiz Pastor, student of the second course of the "Development and design of video games" degree for CITM, and I'm doing this research for the Project 2 course, I will write everything about Software and code licenses.
+
 ![CITM](https://www.citm.upc.edu/templates/new/img/logo_citm_redes_sociales.png)
 
 ### Introduction
@@ -17,6 +18,7 @@ Finally, in 1983, a law was created to be able to protect your software properly
 
 
 ### EULA Legality
+
 ![EULA](https://networkencyclopedia.com/wp-content/uploads/2019/10/eula-example.png)
 
 What can and cannot be in an EULA? An EULA can contain absolutely whatever it wants without any restriction beyond violating fundamental human rights, but when it comes to using the program and accepting its EULA, there may be whatever you want. as long as the document has been legal and reviewed by a lawyer. For example, when you buy a product in a store, you are involuntarily signing an EULA that can say that you only have 14 days to return the product in case of bad condition, or not if the store sees fit. In the case of software, it is the same, by installing the program and accepting the EULA, you accept all the conditions that have been proposed to you and you have no right to complain about them, simply if you do not agree, you do not accept the conditions and therefore you cannot use the program.
@@ -24,6 +26,7 @@ What can and cannot be in an EULA? An EULA can contain absolutely whatever it wa
 ### Video game legal aspects and digital vs physical video games
 
 When we talk about video games, we must have different things to take into account in legal matters, first, we must know what an Intellectual Property or IP is. The simplest definition of IP is any creation of the human mind, be it inventions, literature, art, designs, logos, names, images, etc. Any creation by a human person that did not exist until now can be considered as IP.
+
 ![IP](https://static.thenounproject.com/png/2732689-200.png)
 
 But of course, not everything works, you can't go to the park, take some sand and herbs and say that you have invented sand soup, it must have a useful design, and although it can be derived from other products, it must be original. IPs are protected by various laws depending on the type they are, in this case we will focus on IPs related to the world of video games, video games are protected by copyright laws which we will talk about later.
@@ -32,6 +35,7 @@ For a few years, there has always been an eternal debate in the world of video g
 When a person buys a video game online, they are not really buying the game literally, they are buying a license for one-person use, which does not guarantee any security over the years, for example, if you have bought a video game on the Wii Shop old, today you cannot download that video game since there is no such store and you, by accepting the store's EULA, have probably accepted that if the store closes at some point, the amount of the video games purchased will not be refunded to you, nor will they right to release you after closing.
 
 On the other hand, when you buy a physical video game, you are buying more than a video game license, you have it tangible, you can leave it to your friends and you can even sell it second-hand, unless the video game has explicitly written otherwise, it usually happens with promotional or press products. Of course, video game companies are much more interested in the digital issue, not only because of the cost of making physical copies and distributing them around the world while online they can sell them with a click, if not how there is no resale of digital copy video games, you won't lose money from a copy that has been sold at a thrift store. In fairness, the topic of digital sales is much more attractive and economical for a video game developer company.
+
 ![Games](https://i.ytimg.com/vi/MUkNSrfqdTw/hqdefault.jpg)
 
 ## Copyright and trademark rights
@@ -39,6 +43,7 @@ On the other hand, when you buy a physical video game, you are buying more than 
 ### About Copyright
 
 A common question that novice developers have is, how do I protect the rights of my game? Do I have to register it somewhere so it won't be stolen? Is it legal for me to copy it if I don't put the phrase "all rights reserved"? We will discover all this in a moment, but it must be clarified that copyright laws are not the same in all countries, so I will tell you what we know about copyright in Spain and I will compare it with a country like the United States.
+
 ![Copy](https://como-funciona.com/wp-content/uploads/2019/01/c%C3%B3mo-funciona-el-copyright-800x400.jpg)
 
 Copyright is the right to use the implementation of an idea, beware, the implementation of an idea, not an idea in abstract form, ideas cannot be owned. What does this mean in practice? That you can make a game like the one we are developing, a turn-based rpg in project 2 classroom, where there is some new mechanic that you want to implement and a story written by us, that is an implemented idea (in the case that the video game has been finished), however Thinking about making a turn-based rpg video game with new mechanics and a story made by you, is an idea and therefore, since it is not implemented, you cannot patent it or have copyright on it, an idea has to be real.
